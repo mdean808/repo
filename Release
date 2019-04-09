@@ -1,0 +1,9 @@
+Origin: Unicorn's Repo
+Label: Unicorn's Repo
+Suite: Stable
+Version: 1.0
+Codename: Unicorn808
+Architectures: iphoneos-arm
+Components: main
+Description: Unicorn's Repo
+MD5Sum: 
