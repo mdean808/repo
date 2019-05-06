@@ -1,15 +1,15 @@
 Package: com.mogdan.mesafinger
-Version: 0.0.4-16
+Version: 0.0.4-109
 Architecture: iphoneos-arm
 Maintainer: Morgan Dean
-Installed-Size: 236
+Installed-Size: 204
 Depends: mobilesubstrate
-Filename: debs/com.mogdan.mesafinger.deb
-Size: 21296
-MD5sum: e4a45118b95cdd692205d9fd8d4ebb5f
-SHA1: 5b923770b1a1da592d50d958d4c9750f6816640b
-SHA256: 1a557d09e6c215db5d4fc99d429b0eaa90969965af901784100cdfa3950a3d19
+Filename: /Users/mdean/Documents/iOS/jailbreak/repo/debs/com.mogdan.mesafinger.deb
+Size: 18238
+MD5sum: 0ea24bd2ec22024ad23ea9d848a2009e
+SHA1: 3284ae428481b7897236ada260c78aa45f436919
+SHA256: 9015b44b61fb9c2f496f6b7633f301e385c97576ee13407d41a860213f8d7e53
 Section: Tweaks
-Description: Show the middle finger to to whoever fails TouchID. Also set a custom message!
+Description: Show the middle finger to those who fail TouchID.
 Author: Morgan Dean
 Name: MesaFinger
