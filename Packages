@@ -1,14 +1,14 @@
 Package: com.mogdan.mesafinger
-Version: 0.0.4-115
+Version: 0.0.4-117
 Architecture: iphoneos-arm
 Maintainer: Morgan Dean
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: ./debs/com.mogdan.mesafinger.deb
-Size: 18238
-MD5sum: 0d502b9fbb474a88d459a92f825f7446
-SHA1: 5619893a43fd446804019b9d242d4a8e5933d3dc
-SHA256: 2d89849d8c3143f234f4ef7dcd298298c6ce981e79705b1d5c62f00ef42bba56
+Size: 18162
+MD5sum: 02fcab0cc7825cc7b23ffb39a6105b27
+SHA1: 51894d01e6d13981980cacf42be489d7a17227c1
+SHA256: f2f399b92f1b1a2a7e2fa8c17bfcee18c6f721358148f9d782a654a09f2dfe8d
 Section: Tweaks
 Description: Show the middle finger to those who fail TouchID.
 Author: Morgan Dean
