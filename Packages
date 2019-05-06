@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Morgan Dean
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: /Users/mdean/Documents/iOS/jailbreak/repo/debs/com.mogdan.mesafinger.deb
+Filename: ./debs/com.mogdan.mesafinger.deb
 Size: 18238
 MD5sum: 0ea24bd2ec22024ad23ea9d848a2009e
 SHA1: 3284ae428481b7897236ada260c78aa45f436919
