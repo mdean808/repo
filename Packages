@@ -14,3 +14,4 @@ Description: Show the middle finger to those who fail TouchID.
 Author: Unicorn808
 Name: MesaFinger
 SileoDepiction: ./depictions/com.mogdan.mesafinger/sileo_depiction.json
+Depiction: ./depictions/com.mogdan.mesafinger/index.html
