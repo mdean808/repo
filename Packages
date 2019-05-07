@@ -1,15 +1,16 @@
 Package: com.mogdan.mesafinger
-Version: 0.1.0-18
+Version: 0.1.0-24
 Architecture: iphoneos-arm
 Maintainer: Unicorn808
-Installed-Size: 236
+Installed-Size: 300
 Depends: mobilesubstrate
 Filename: ./debs/com.mogdan.mesafinger.deb
-Size: 17004
-MD5sum: cd643d67d305976322d842583864ff9f
-SHA1: 6bf3b2f1d600d033ce49ac58a6255d22bc72d400
-SHA256: cd3737dab017bf6e359faab967ea107c2d3da12e53ceb81ccbd8b39484872e4e
+Size: 18542
+MD5sum: 82f8219598d02bd2e110046dc82da26e
+SHA1: f804d8ad68eb7e95e6a48893a4b0ab1a3cbcc3e5
+SHA256: 7599d66dc2e2d904a4d930fe4a4eacb99ad8101940fce4f9e607dbd6c47c544e
 Section: Tweaks
 Description: Show the middle finger to those who fail TouchID.
 Author: Unicorn808
 Name: MesaFinger
+SileoDepiction: ./depictions/com.mogdan.mesafinger/sileo_depiction.json
