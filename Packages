@@ -1,17 +1,17 @@
 Package: com.mogdan.mesafinger
-Version: 0.1.0-89
+Version: 0.1.5-1
 Architecture: iphoneos-arm
 Maintainer: Unicorn808
 Installed-Size: 300
 Depends: mobilesubstrate, me.nepeta.libcolorpicker
 Filename: ./debs/com.mogdan.mesafinger.deb
-Size: 19414
-MD5sum: be4927118f976a070a94d7e0f3144983
-SHA1: eb4ef401dbf4967e247971ee73cb02315c169b9b
-SHA256: 062324d4c36d040e2e079b094e7579852113391f883547646d9deff6ef1dacb7
+Size: 19444
+MD5sum: 09ea1a0d5ba7f94862069aa6df84c517
+SHA1: 0b7f4d9457b08094c2f7ed7a543bc6933af0f602
+SHA256: 9cb6d3d01f65935f1652a91f11f092b0355550543614143254442e9b3f390209
 Section: Tweaks
 Description: Flip off TouchID and FaceID failures.
 Author: Unicorn808
-Name: MesaFinger
-SileoDepiction: ./sileo/com.mogdan.mesafinger/depiction.json
 Depiction: ./web/com.mogdan.mesafinger/
+Name: MesaFinger
+Sileodepiction: ./sileo/com.mogdan.mesafinger/depiction.json
