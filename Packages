@@ -13,5 +13,5 @@ Section: Tweaks
 Description: Flip off TouchID and FaceID failures.
 Author: Unicorn808
 Name: MesaFinger
-SileoDepiction: ./sileo/com.mogdan.mesafinger
+SileoDepiction: ./sileo/com.mogdan.mesafinger/depiction.json
 Depiction: ./web/com.mogdan.mesafinger
