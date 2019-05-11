@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Unicorn808
 Installed-Size: 300
 Depends: mobilesubstrate
-Filename: /Users/mdean/Documents/iOS/jailbreak/repo/debs/com.mogdan.mesafinger.deb
+Filename: ./debs/com.mogdan.mesafinger.deb
 Size: 19108
 MD5sum: 1d508232f11bb15b669b2bd9be12bea0
 SHA1: ac0e57498b66df88ba0651faad31e0a1eb8b2f3b
@@ -13,5 +13,5 @@ Section: Tweaks
 Description: Flip off TouchID and FaceID failures.
 Author: Unicorn808
 Name: MesaFinger
-SileoDepiction: ./depictions/com.mogdan.mesafinger/sileo_depiction.json
-Depiction: ./depictions/com.mogdan.mesafinger/index.html
+SileoDepiction: ./depictions/com.mogdan.mesafinger/sileo
+Depiction: ./depictions/com.mogdan.mesafinger/web
