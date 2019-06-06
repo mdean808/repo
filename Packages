@@ -12,6 +12,24 @@ SHA256: 9cb6d3d01f65935f1652a91f11f092b0355550543614143254442e9b3f390209
 Section: Tweaks
 Description: Flip off TouchID and FaceID failures.
 Author: Unicorn808
-Depiction: ./web/com.mogdan.mesafinger/
+Depiction: https://repo.mogdan.xyz/web/com.mogdan.mesafinger/
 Name: MesaFinger
-Sileodepiction: ./sileo/com.mogdan.mesafinger/depiction.json
+Sileodepiction: https://repo.mogdan.xyz/sileo/com.mogdan.mesafinger/depiction.json
+
+Package: xyz.mogdan.tweakmanager
+Version: 0.1.0-2
+Architecture: iphoneos-arm
+Maintainer: Unicorn808
+Installed-Size: 1920
+Filename: /Users/mdean/Documents/iOS/jailbreak/repo/debs/xyz.mogdan.tweakmanager.deb
+Size: 1679764
+MD5sum: 7878503a9b99412289f84ef00741e9db
+SHA1: faf0eb23c987fe222c01287814dafbc4c87f0b4a
+SHA256: 9b123aa831a4b66b867ce7085ac0b665b6f90d04be9013bb2e25f2a6ba5e6453
+Section: Utilities
+Homepage: https://repo.mogdan.xyz/web/xyz.mogdan.tweakmanager/
+Description: Manage enabled/disabled tweaks in bulk.
+Author: Unicorn808 <saurik@saurik.com>
+Depiction: https://repo.mogdan.xyz/web/xyz.mogdan.tweakmanager/
+Name: TweakManager
+Sileodepiction: https://repo.mogdan.xyz/sileo/xyz.mogdan.tweakmanager/depiction.json

@@ -1,0 +1,82 @@
+{
+    "tintColor": "#0657bb",
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "TweakManager",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "useSpacing": true,
+                    "markdown": "Manage enabled/disabled tweaks in bulk.",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "url": "https://i.imgur.com/wCtmcY7.png",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://i.imgur.com/Fp38MrB.png",
+                            "accessibilityText": "Screenshot1"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "markdown": "TweakManager lets you create Tweakages (Tweak-Packages) that are lists of tweaks you want to disable or enable. \r\n\r\nYou can copy, edit, and delete them, and of course enable them to disable your unelected tweaks. In the future you may even be able to share them!"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "0.1.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-06-2019",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Unicorn808",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details",
+            "class": "DepictionStackView"
+        }
+    ],
+    "headerImage": "https://i.imgur.com/wCtmcY7.png"
+}
