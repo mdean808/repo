@@ -40,7 +40,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "markdown": "TweakManager lets you create Tweakages (Tweak-Packages) that are lists of tweaks you want to disable or enable. \r\n\r\nYou can copy, edit, and delete them, and of course enable them to disable your unelected tweaks. In the future you may even be able to share them!"
+                    "markdown": "TweakManager lets you create Tweakages (Tweak-Packages) that are lists of tweaks you want to disable or enable. \r\n\r\nYou can copy, edit, and delete them, and of course enable them to disable your unelected tweaks. In the future you may even be able to share them! If you like my work, please consider [Donating!](https://paypal.me/unicorn808)"
                 },
                 {
                     "class": "DepictionSeparatorView"

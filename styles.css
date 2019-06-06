@@ -1,0 +1,146 @@
+* {
+    font-family: "Droid Sans", sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 14px;
+}
+
+.container {
+    margin: 20px 2%;
+    border: #6d0f35 2px solid;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    padding: 0 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+.vertical-align-center {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.right {
+    float: right !important;
+}
+
+.left {
+    float: left !important;
+}
+
+.left-text {
+    text-align: left;
+}
+
+.right-text {
+    text-align: right;
+}
+
+
+.images img {
+    height: 200px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.nav {
+    margin: 0;
+    background-color: #6d0f35;
+    padding: 0;
+    color: white;
+}
+
+.nav ul {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul li {
+    display: inline;
+    float: left;
+    padding: 20px;
+}
+
+.nav ul li a {
+    display: block;
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+}
+
+.nav ul li:hover {
+    background-color: #570c2a;
+}
+
+
+.desc {
+    font-size: 14px;
+    text-align: left;
+}
+
+.author {
+    font-size: 14px
+}
+
+.tag {
+    font-size: 14px
+}
+
+.content {
+    border-top: 1px solid;
+}
+
+.section {
+    grid-template-columns: .35fr 1fr;
+    display: grid;
+    margin-top: 10px;
+    text-align: left;
+    border-bottom: 1px solid;
+}
+
+.section-title {
+    margin-right: 10px;
+}
+
+.tweaks {
+    display: grid;
+    grid-template-columns: 1.1fr 1.1fr;
+    grid-template-rows: .8fr .8fr;
+    grid-column-gap: 10px;
+    padding: 15px;
+}
+
+.tweak {
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    transition: all 200ms;
+    padding: 10px;
+    box-shadow: #9f9f9f 3px 3px 6px;
+}
+
+.tweak > img {
+    width: 70px;
+}
+
+.tweak:hover {
+    box-shadow: #676767 6px 6px 12px;
+}
+
+.icon {
+    width: 100px;
+}
