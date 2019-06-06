@@ -21,7 +21,7 @@ Version: 0.1.0-2
 Architecture: iphoneos-arm
 Maintainer: Unicorn808
 Installed-Size: 1920
-Filename: /Users/mdean/Documents/iOS/jailbreak/repo/debs/xyz.mogdan.tweakmanager.deb
+Filename: ./debs/xyz.mogdan.tweakmanager.deb
 Size: 1679764
 MD5sum: 7878503a9b99412289f84ef00741e9db
 SHA1: faf0eb23c987fe222c01287814dafbc4c87f0b4a
