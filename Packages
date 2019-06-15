@@ -38,13 +38,13 @@ Package: xyz.mogdan.spoke
 Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: Unicorn808
-Installed-Size: 336
+Installed-Size: 284
 Depends: mobilesubstrate, me.nepeta.libcolorpicker
 Filename: ./debs/xyz.mogdan.spoke.deb
-Size: 61818
-MD5sum: 49a4f19ede69b25c34a639a25fe06dd4
-SHA1: 958d62bf629cd43d4977a49e882915c1ab42ad50
-SHA256: 5f2a8f7a241c945de63e3355c801c9cad2bfb6a594157044977ddaadea8de76b
+Size: 9840
+MD5sum: 153072bb3b4996d6e17758c3c5eb8e74
+SHA1: 0fcc5349f135bcf236ec6b1e2d4a7c639b1c9a9e
+SHA256: f1413bf5583f4300fd40508526f2cace3b2acbf5588bf8a92c889fc6367a0893
 Section: Tweaks
 Description: Customize your activity indicators!
 Author: Unicorn808
