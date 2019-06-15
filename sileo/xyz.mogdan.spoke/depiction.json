@@ -1,0 +1,82 @@
+{
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "title": "Spoke",
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView",
+          "useBoldText": true
+        },
+        {
+          "markdown": "Customize activity indicator colors",
+          "class": "DepictionMarkdownView",
+          "useSpacing": true
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 275.41333333333336}",
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot0",
+              "url": "https://i.imgur.com/jn5SMub.png"
+            },
+            {
+              "accessibilityText": "Screenshot1",
+              "url": "https://i.imgur.com/XBCT6UT.png"
+            }
+          ]
+        },
+        {
+          "title": "markdown-description",
+          "useBottomMargin": false,
+          "class": "DepictionMarkdownView",
+          "useBoldText": true,
+          "markdown": "Spoke is a small, lightweight tweak that changes the colors of all activity indicators in iOS. Tested on iOS 12, will probably work on 11 as well. It should work in every app, though some like Apollo have custom activity indicators."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Released",
+          "text": "06-15-2019",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "title": "Developer",
+          "text": "Unicorn808",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "spacing": 8,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "tabname": "Details"
+    }
+  ],
+  "class": "DepictionTabView",
+  "tintColor": "#0657bb",
+  "minVersion": "0.1",
+  "headerImage": ""
+}

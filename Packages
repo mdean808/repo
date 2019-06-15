@@ -33,3 +33,22 @@ Author: Unicorn808 <morgandeanhi@gmail.com>
 Depiction: https://repo.mogdan.xyz/web/xyz.mogdan.tweakmanager/
 Name: TweakManager
 Sileodepiction: https://repo.mogdan.xyz/sileo/xyz.mogdan.tweakmanager/depiction.json
+
+Package: xyz.mogdan.spoke
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Unicorn808
+Installed-Size: 336
+Depends: mobilesubstrate, me.nepeta.libcolorpicker
+Filename: ./debs/xyz.mogdan.spoke.deb
+Size: 61818
+MD5sum: 49a4f19ede69b25c34a639a25fe06dd4
+SHA1: 958d62bf629cd43d4977a49e882915c1ab42ad50
+SHA256: 5f2a8f7a241c945de63e3355c801c9cad2bfb6a594157044977ddaadea8de76b
+Section: Tweaks
+Description: Customize your activity indicators!
+Author: Unicorn808
+Depiction: https://repo.mogdan.xyz/web/xyz.mogdan.spoke/
+Icon: https://repo.mogdan.xyz/web/xyz.mogdan.spoke/icon.png
+Name: Spoke
+Sileodepiction: https://repo.mogdan.xyz/sileo/xyz.mogdan.spoke/depiction.json
