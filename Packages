@@ -21,7 +21,7 @@ Version: 0.1.6-1
 Architecture: iphoneos-arm
 Maintainer: Unicorn808
 Installed-Size: 1920
-Depends: com.creaturecoding.crux
+Depends: 
 Filename: ./debs/xyz.mogdan.tweakmanager.deb
 Size: 1680446
 MD5sum: 48c7a52294f1b50329c034dc87615755
