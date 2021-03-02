@@ -17,15 +17,15 @@ Name: MesaFinger
 Sileodepiction: https://repo.mogdan.xyz/sileo/com.mogdan.mesafinger/depiction.json
 
 Package: xyz.mogdan.tweakmanager
-Version: 0.1.6-2
+Version: 0.1.7-6
 Architecture: iphoneos-arm
 Maintainer: Unicorn808
 Installed-Size: 1920
-Filename: ./debs/xyz.mogdan.tweakmanager.deb
-Size: 1680422
-MD5sum: cc791d881a5f95997c5e81239fd1c7e8
-SHA1: 1ac1bd199bef4a9bb497c6d5d168e17601fbf6ca
-SHA256: ea610d8e222176b18e2f1cdc7a8615325a6fe5f303870ea9694d41f7ec60597a
+Filename: /Users/mdean/Documents/iOS/jailbreak/repo/debs/xyz.mogdan.tweakmanager.deb
+Size: 1680340
+MD5sum: 0182155f66a81029e6a7c48e3f3d5802
+SHA1: e170f5c3ac4c47f9ee03b89d6f6e92bde1cba050
+SHA256: 2acfdf50e6288470fd1ba6cb3934c9bee8f67e4baea0f44b014b8d2e89146bcd
 Section: Utilities
 Homepage: https://repo.mogdan.xyz/web/xyz.mogdan.tweakmanager/
 Description: Manage enabled/disabled tweaks in bulk.
